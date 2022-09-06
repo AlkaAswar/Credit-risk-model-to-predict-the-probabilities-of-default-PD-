@@ -200,6 +200,16 @@ y_test	default_proba	ypred
 
 4	  0	        1.0	    0
 
+------------------precision--recall---f1-score---support----------------
+
+           0       1.00      1.00      1.00    465453
+           
+           1       1.00      0.97      0.98       832
+           
+    accuracy                           1.00    466285
+    
+ 
+
 ####  2. Logistic Regression
 Accuracy - 0.9982156835411818
 
