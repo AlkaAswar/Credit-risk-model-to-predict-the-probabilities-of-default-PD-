@@ -1,4 +1,4 @@
-# Driven-credit-risk-model-to-predict-the-probabilities-of-default-PD-
+# Credit-risk-model-to-predict-the-probabilities-of-default-PD-
 ### Problem Statement
 Assignment: Predict the probabilities of default
 -------------------------
